@@ -1,0 +1,21 @@
+{
+  "name": "123112313212",
+  "version": "1.0.0",
+  "description": "312313131212 45555",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/so1ke0/123112313212.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/so1ke0/123112313212/issues"
+  },
+  "homepage": "https://github.com/so1ke0/123112313212#readme"
+}
